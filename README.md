@@ -1,6 +1,6 @@
 # Organization-CRUD
 
-This project was par of internship I participated in.
+This project was part of an internship I participated in.
 
 The purpose of this project is to test and create different database relationships between the project's entites.
 
